@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @stsibikov, a data scientist based in Moscow.
+- 👀 I’m interested in finding new ways of using ML to benefit society or businesses.
+- 🌱 I’m currently focusing on refreshing my SQL and ML knowledge, but later I am planning to start learning Docker
+- :building_construction: For my next projects, I am looking to 1) build a movie recommender system 2) use computer vision to identify plant diseases 3) turn the aforementioned projects into a real service with Docker
+- 📫 How to reach me: by email: tsibikov.sergei@gmail.com
