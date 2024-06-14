@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stsibikov, a data scientist based in Moscow.
 - 👀 I’m interested in finding new ways of using ML to benefit society and businesses.
-- 🌱 I’m currently focusing on refreshing my SQL and ML knowledge, but later I am planning to start learning Docker
-- :building_construction: For my next projects, I am looking to 1) build a movie recommender system 2) use computer vision to identify plant diseases 3) turn the aforementioned projects into a real service with Docker
+- 🌱 After a little pause, I will be focusing on building new projects to showcase my DS, DL and CV knowledge
+- :building_construction: for my next project, I will combine tabular, textual and imagery data to predict prices of a vital commodity. The design for the project is already drafted according to my previous works, and the specifics can be seen at [this repo](https://github.com/stsibikov/price_prediction)
 - 📫 How to reach me: tsibikov.sergei@gmail.com
