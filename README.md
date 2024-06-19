@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @stsibikov, a data scientist based in Moscow.
-- 👀 I’m interested in finding new ways of using ML to benefit society and businesses.
-- 🌱 After a little pause, I will be focusing on building new projects to showcase my DS, DL and CV knowledge
-- :building_construction: for my next project, I will combine tabular, textual and imagery data to predict prices of a vital commodity. The design for the project is already drafted according to my previous works, and some specifics can be seen at [this repo](https://github.com/stsibikov/price_prediction)
+- 👋 Hi, I’m @stsibikov, a junior Data Scientist with experience in data analytics, ML, DL and NLP.
+- 👀 I’m interested in becoming a Data Scientist with a heavy focus on building ML/DL models.
+- 🌱 I am focusing on expanding my Kaggle/DS community presence (competitions).
+- :building_construction: for my next project, I will combine tabular, textual and imagery data to predict prices of a vital commodity. The design for the project is already drafted according to my previous works, and some specifics can be seen at [this repo](https://github.com/stsibikov/price_prediction).
 - 📫 How to reach me: tsibikov.sergei@gmail.com
