@@ -5,6 +5,7 @@ I am looking for a job in the field of Data Science, which involves implementati
 Key skills: SQL, Python (pandas, pyspark, sklearn, pytorch etc), MLOps (airflow, mlflow)
 
 🌱 Currently, I am focusing on expanding my Kaggle/DS community presence (competitions).
-:factory: for my next project, I will combine tabular, textual and imagery data to predict prices of a vital commodity. The design for the project is already drafted according to my previous works, and some specifics can be seen at [this repo](https://github.com/stsibikov/price_prediction).
+
+🏭 for my next project, I will combine tabular, textual and imagery data to predict prices of a vital commodity. The design for the project is already drafted according to my previous works, and some specifics can be seen at [this repo](https://github.com/stsibikov/price_prediction).
 
 📫 How to reach me: tsibikov.sergei@gmail.com
