@@ -1,6 +1,6 @@
 Data Scientist:
-* 2 years of professional data analytics and ML model training using Python
-* Areas of ML expertise - tabular data, NLP, DL
+* Experience with data analytics and ML
+* Areas of ML expertise - tabular data, NLP, time series
 * Active member of DS community
 * 5 years of Python development
 
