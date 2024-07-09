@@ -1,7 +1,7 @@
-Data Scientist:
-* Experience with data analytics and ML
-* Areas of ML expertise - tabular data, NLP, time series
-* Active member of DS community
-* 5 years of Python development
+Data Scientist с опытом аналитики и внедрения моделей машинного обучения. Имею опыт полного цикла внедрения ML моделей: сбор, обработка и анализ данных, построение и проверка гипотез, Feature Engineering, внедрение и валидация моделей машинного обучения.
 
-Key skills: Python (pandas, sklearn, pytorch), SQL, MLOps (airflow, mlflow).
+Помимо профессиональной и учебной деятельности, я участвую в соревнованиях и занимаюсь личными проектами по машинному обучению. Мои проекты включают прогноз курса акций NASDAQ100 с помощью текстового анализа новостей и обучение нейросети для предсказания ожидаемой зарплаты соискаталей HeadHunter, помимо прочих.
+
+Степень магистра ВШЭ по программе статистического анализа. За время учебы я фокусировался на курсах о машинном обучении и аналитике: машинное обучение в экономике, анализ данных с Python (Pandas), бизнес-аналитика, продвинутая теория машинного обучения (на англ. языке).
+
+Ключевые навыки: SQL (join'ы, CTE, оконные функции), Python (Pandas, Matplotlib, Plotly, Sklearn, PyTorch, Xgboost, Catboost), MLOps (Airflow, MLflow), английский C2, Git.
